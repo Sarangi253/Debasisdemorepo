@@ -1,0 +1,9 @@
+{
+	"name": "sarangidata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95ac1d0d-192d-4312-b9b0-0d85a6257aae",
+		"tenantId": "4d741671-a767-4a34-9c0c-8a1cd05d2aa7"
+	}
+}
